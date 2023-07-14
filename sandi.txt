@@ -1,0 +1,31 @@
+Daftar akun:
+1)  Nama    : Daniel Andrew Ketaren
+    Pass    : daniel123
+    Email   : daniel@gmail.com
+    Username: daniel
+
+2)  Nama    : Abdul Hakim Zelfi
+    Pass    : abdul123
+    Email   : abdul@gmail.com
+    Username: abdul
+
+3)  Nama    : Abigail Gloria Purba
+    Pass    : abigail123
+    Email   : abigail@gmail.com
+    Username: abigail
+
+4)  Nama    : Alief Revandja Syahputra
+    Pass    : alief123
+    Email   : alief@gmail.com
+    Username: alief
+
+5)  Nama    : Kezia Natalia
+    Pass    : kezia123
+    Email   : kezia@gmail.com
+    Username: kezia
+
+6)  Nama    : Muhammad Gilang Akbar
+    Pass    : gilang123
+    Email   : gilang@gmail.com
+    Username: gilang
+
